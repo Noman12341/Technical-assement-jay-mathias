@@ -1,0 +1,9 @@
+version: 2.3.0
+files:
+  - url: SayHello-2.3.0-armv7l.AppImage
+    sha512: lPLIMeCiai959AWA/3Hp4CgytlPXDtzUtwTvE/P7aUbk2aYMc2aykHvLh0ZTf40iBfeZApB/MDBaUc82s67uZg==
+    size: 68036955
+    blockMapSize: 71763
+path: SayHello-2.3.0-armv7l.AppImage
+sha512: lPLIMeCiai959AWA/3Hp4CgytlPXDtzUtwTvE/P7aUbk2aYMc2aykHvLh0ZTf40iBfeZApB/MDBaUc82s67uZg==
+releaseDate: '2021-07-23T10:37:18.149Z'
